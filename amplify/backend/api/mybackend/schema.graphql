@@ -1,4 +1,4 @@
-ampltype Task
+type Task
   @model
   @auth(
     rules: [
